@@ -28,7 +28,7 @@ Build a multi-factor stock selection model to comprehensively consider the impac
 
 | Team Member   | Responsibilities                                                                                                                                 |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Xingyan Liu    | Data preprocessing and visualization, factor extraction, writing and training the hidden Markov stock timing strategy model, completing backtest evaluation metrics and strategy evaluation visualization. |
+| Xingyan Liu  | Data preprocessing and visualization, factor extraction, writing and training the hidden Markov stock timing strategy model, completing backtest evaluation metrics and strategy evaluation visualization. |
 | Yanzhi Liu    | Writing and training a transformer-based sliding window stock prediction model, writing and training a random forest-based dynamic stock selection model. |
 | Shiyi  Wang   | Writing LSTM code, training the LSTM model, using the LSTM model to predict stock and Hang Seng Index trends.                                       |
 
