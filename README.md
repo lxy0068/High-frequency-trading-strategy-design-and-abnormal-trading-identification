@@ -1,5 +1,7 @@
 # High-frequency-trading-strategy-design-and-abnormal-trading-identification
-机器学习大作业（2023年底）
+
+Machine Learning Assignment (Autumn 2023)
+
 ![Moving_Averages_00001](https://github.com/user-attachments/assets/66b6ad23-76b8-4f76-b285-7d2a780eaec5)
 ![Candlestick_Volume_00001](https://github.com/user-attachments/assets/702f9057-c31e-4e66-831d-2e716588a424)
 ![image](https://github.com/user-attachments/assets/ddcae1c3-3742-42fa-83ef-0339d1d10dc0)
